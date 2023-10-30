@@ -44,6 +44,8 @@ public class Status_Banjir {
     public void show_attributes() {
         System.out.println("Flood height is : " + flood_height);
         System.out.println("Status is : " + status);
+        System.out.println("anying");
+        System.out.println("waduh");
     }
 
     /**
